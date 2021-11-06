@@ -12,6 +12,7 @@ public class SpringBootTestApplication {
 		//omr
 		//nara
 		//mahi
+		//semi final
 		SpringApplication.run(SpringBootTestApplication.class, args);
 	}
 
