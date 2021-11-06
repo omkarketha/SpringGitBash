@@ -13,6 +13,7 @@ public class SpringBootTestApplication {
 		//nara
 		//mahi
 		//semi final
+		//om
 		SpringApplication.run(SpringBootTestApplication.class, args);
 	}
 
