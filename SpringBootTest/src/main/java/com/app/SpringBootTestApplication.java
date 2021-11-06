@@ -10,6 +10,7 @@ public class SpringBootTestApplication {
 		//gghhkkoo
 		//hi
 		//omr
+		//nara
 		SpringApplication.run(SpringBootTestApplication.class, args);
 	}
 
